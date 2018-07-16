@@ -1,1 +1,0 @@
-export const dataURL = {url:"https://randomuser.me/api/?results=15"}

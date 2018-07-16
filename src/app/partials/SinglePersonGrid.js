@@ -5,7 +5,7 @@ export const SinglePersonGrid = (props) => {
 
     return (
   
-            <div className="col s4 m4 l4 xl4">
+            <div className="col s12 m6 l4">
                 <div className={gender === "female" ? "card red lighten-5" : "card"}>
                     <div className="card-image">
                         <img src={picture.large} alt="user"/>

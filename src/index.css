@@ -48,7 +48,9 @@ body {
   text-align: center;
 
 }
-
+#logo{
+  font-family: 'Chela One', cursive;
+}
 
 @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
 @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
